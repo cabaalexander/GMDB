@@ -1,0 +1,3 @@
+- use `/usr/bin/env` instead of `/usr/bin`
+- change or add the installations steps e.g. first get all deps and then test...
+- Maybe ignore the binary `GMDB` ? ? ? ? ?
