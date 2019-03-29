@@ -13,8 +13,8 @@ import (
 	"os"
 	"unicode/utf8"
 
-	"github.com/Dentrax/GMDB/pkg/cache"
-	"github.com/Dentrax/GMDB/pkg/config"
+	"github.com/cabaalexander/GMDB/pkg/cache"
+	"github.com/cabaalexander/GMDB/pkg/config"
 
 	"github.com/puerkitobio/goquery"
 )

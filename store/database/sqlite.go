@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Dentrax/GMDB/store/database/ddl"
+	"github.com/cabaalexander/GMDB/store/database/ddl"
 
 	"github.com/jmoiron/sqlx"
 	_ "github.com/mattn/go-sqlite3"

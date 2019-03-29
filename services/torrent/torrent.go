@@ -10,9 +10,9 @@ package torrent
 import (
 	"log"
 
-	"github.com/Dentrax/GMDB/models"
-	"github.com/Dentrax/GMDB/services/common"
-	"github.com/Dentrax/GMDB/services/torrent/torrent1337x"
+	"github.com/cabaalexander/GMDB/models"
+	"github.com/cabaalexander/GMDB/services/common"
+	"github.com/cabaalexander/GMDB/services/torrent/torrent1337x"
 
 	"github.com/puerkitobio/goquery"
 )

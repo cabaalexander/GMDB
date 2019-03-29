@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Dentrax/GMDB/models"
+	"github.com/cabaalexander/GMDB/models"
 
 	. "github.com/smartystreets/goconvey/convey"
 )

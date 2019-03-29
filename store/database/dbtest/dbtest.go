@@ -8,7 +8,7 @@
 package dbtest
 
 import (
-	"github.com/Dentrax/GMDB/store/database"
+	"github.com/cabaalexander/GMDB/store/database"
 
 	_ "github.com/mattn/go-sqlite3"
 )

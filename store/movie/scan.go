@@ -10,8 +10,8 @@ package movie
 import (
 	"database/sql"
 
-	"github.com/Dentrax/GMDB/models"
-	"github.com/Dentrax/GMDB/store/database"
+	"github.com/cabaalexander/GMDB/models"
+	"github.com/cabaalexander/GMDB/store/database"
 )
 
 //Ref: https://github.com/drone/drone/blob/master/store/user/scan.go

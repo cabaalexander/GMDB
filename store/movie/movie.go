@@ -11,8 +11,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/Dentrax/GMDB/models"
-	"github.com/Dentrax/GMDB/store/database"
+	"github.com/cabaalexander/GMDB/models"
+	"github.com/cabaalexander/GMDB/store/database"
 )
 
 // New returns a new UserStore.

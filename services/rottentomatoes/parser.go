@@ -14,7 +14,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/Dentrax/GMDB/models"
+	"github.com/cabaalexander/GMDB/models"
 
 	"github.com/puerkitobio/goquery"
 )

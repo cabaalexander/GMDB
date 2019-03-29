@@ -10,9 +10,9 @@ package imdb
 import (
 	"log"
 
-	"github.com/Dentrax/GMDB/models"
-	"github.com/Dentrax/GMDB/pkg/cache"
-	"github.com/Dentrax/GMDB/services/common"
+	"github.com/cabaalexander/GMDB/models"
+	"github.com/cabaalexander/GMDB/pkg/cache"
+	"github.com/cabaalexander/GMDB/services/common"
 
 	"github.com/puerkitobio/goquery"
 )

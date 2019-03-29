@@ -12,10 +12,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/Dentrax/GMDB/models"
-	"github.com/Dentrax/GMDB/pkg"
-	"github.com/Dentrax/GMDB/pkg/config"
-	"github.com/Dentrax/GMDB/services"
+	"github.com/cabaalexander/GMDB/models"
+	"github.com/cabaalexander/GMDB/pkg"
+	"github.com/cabaalexander/GMDB/pkg/config"
+	"github.com/cabaalexander/GMDB/services"
 
 	"github.com/urfave/cli"
 )

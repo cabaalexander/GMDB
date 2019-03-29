@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Dentrax/GMDB/models"
+	"github.com/cabaalexander/GMDB/models"
 
 	"github.com/middelink/go-parse-torrent-name"
 	"github.com/ttacon/chalk"
